@@ -1,1 +1,2 @@
-# ML-Eigenfaces---Age-Group-Classification
+# Eigenfaces - Age Group Classification
+Age estimation is a widely studied task related to facial recognition, with applications in domains such as biometrics, and human computer interaction. Estimating age from facial images suffers from many of same challenges as face recognition, such as variations in appearance caused by pose, lighting, and facial accessories (i.e. glasses) or facial hair; and has similar issues around the lack of diversity in training datasets.
